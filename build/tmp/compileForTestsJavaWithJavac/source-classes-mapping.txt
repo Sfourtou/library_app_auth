@@ -1,0 +1,163 @@
+net/openid/appauth/AuthorizationServiceConfiguration.java
+ net.openid.appauth.AuthorizationServiceConfiguration
+ net.openid.appauth.AuthorizationServiceConfiguration$ConfigurationRetrievalAsyncTask
+ net.openid.appauth.AuthorizationServiceConfiguration$RetrieveConfigurationCallback
+net/openid/appauth/GrantTypeValues.java
+ net.openid.appauth.GrantTypeValues
+net/openid/appauth/connectivity/ConnectionBuilder.java
+ net.openid.appauth.connectivity.ConnectionBuilder
+net/openid/appauth/AppAuthConfiguration.java
+ net.openid.appauth.AppAuthConfiguration
+ net.openid.appauth.AppAuthConfiguration$1
+ net.openid.appauth.AppAuthConfiguration$Builder
+net/openid/appauth/AuthorizationManagementRequest.java
+ net.openid.appauth.AuthorizationManagementRequest
+net/openid/appauth/browser/BrowserDescriptor.java
+ net.openid.appauth.browser.BrowserDescriptor
+net/openid/appauth/RedirectUriReceiverActivity.java
+ net.openid.appauth.RedirectUriReceiverActivity
+net/openid/appauth/RegistrationResponse.java
+ net.openid.appauth.RegistrationResponse
+ net.openid.appauth.RegistrationResponse$1
+ net.openid.appauth.RegistrationResponse$Builder
+ net.openid.appauth.RegistrationResponse$MissingArgumentException
+net/openid/appauth/Preconditions.java
+ net.openid.appauth.Preconditions
+net/openid/appauth/AuthorizationService.java
+ net.openid.appauth.AuthorizationService
+ net.openid.appauth.AuthorizationService$RegistrationRequestTask
+ net.openid.appauth.AuthorizationService$RegistrationResponseCallback
+ net.openid.appauth.AuthorizationService$TokenRequestTask
+ net.openid.appauth.AuthorizationService$TokenResponseCallback
+net/openid/appauth/EndSessionResponse.java
+ net.openid.appauth.EndSessionResponse
+ net.openid.appauth.EndSessionResponse$1
+ net.openid.appauth.EndSessionResponse$Builder
+net/openid/appauth/EndSessionRequest.java
+ net.openid.appauth.EndSessionRequest
+ net.openid.appauth.EndSessionRequest$1
+ net.openid.appauth.EndSessionRequest$Builder
+net/openid/appauth/browser/Browsers.java
+ net.openid.appauth.browser.Browsers
+ net.openid.appauth.browser.Browsers$Chrome
+ net.openid.appauth.browser.Browsers$Firefox
+ net.openid.appauth.browser.Browsers$SBrowser
+net/openid/appauth/BuildConfig.java
+ net.openid.appauth.BuildConfig
+net/openid/appauth/connectivity/DefaultConnectionBuilder.java
+ net.openid.appauth.connectivity.DefaultConnectionBuilder
+net/openid/appauth/AdditionalParamsProcessor.java
+ net.openid.appauth.AdditionalParamsProcessor
+net/openid/appauth/SystemClock.java
+ net.openid.appauth.SystemClock
+net/openid/appauth/AsciiStringListUtil.java
+ net.openid.appauth.AsciiStringListUtil
+net/openid/appauth/AuthorizationManagementActivity.java
+ net.openid.appauth.AuthorizationManagementActivity
+net/openid/appauth/ClientAuthentication.java
+ net.openid.appauth.ClientAuthentication
+ net.openid.appauth.ClientAuthentication$UnsupportedAuthenticationMethod
+net/openid/appauth/browser/AnyBrowserMatcher.java
+ net.openid.appauth.browser.AnyBrowserMatcher
+net/openid/appauth/browser/BrowserMatcher.java
+ net.openid.appauth.browser.BrowserMatcher
+net/openid/appauth/NoClientAuthentication.java
+ net.openid.appauth.NoClientAuthentication
+net/openid/appauth/AuthorizationException.java
+ net.openid.appauth.AuthorizationException
+ net.openid.appauth.AuthorizationException$AuthorizationRequestErrors
+ net.openid.appauth.AuthorizationException$GeneralErrors
+ net.openid.appauth.AuthorizationException$RegistrationRequestErrors
+ net.openid.appauth.AuthorizationException$TokenRequestErrors
+net/openid/appauth/internal/package-info.java
+ net.openid.appauth.internal.package-info
+net/openid/appauth/internal/Logger.java
+ net.openid.appauth.internal.Logger
+ net.openid.appauth.internal.Logger$AndroidLogWrapper
+ net.openid.appauth.internal.Logger$LogWrapper
+net/openid/appauth/browser/package-info.java
+ net.openid.appauth.browser.package-info
+net/openid/appauth/browser/DelimitedVersion.java
+ net.openid.appauth.browser.DelimitedVersion
+net/openid/appauth/CodeVerifierUtil.java
+ net.openid.appauth.CodeVerifierUtil
+net/openid/appauth/package-info.java
+ net.openid.appauth.package-info
+net/openid/appauth/ResponseTypeValues.java
+ net.openid.appauth.ResponseTypeValues
+net/openid/appauth/JsonUtil.java
+ net.openid.appauth.JsonUtil
+ net.openid.appauth.JsonUtil$BooleanField
+ net.openid.appauth.JsonUtil$Field
+ net.openid.appauth.JsonUtil$ListField
+ net.openid.appauth.JsonUtil$StringField
+ net.openid.appauth.JsonUtil$StringListField
+ net.openid.appauth.JsonUtil$UriField
+net/openid/appauth/ClientSecretBasic.java
+ net.openid.appauth.ClientSecretBasic
+net/openid/appauth/Utils.java
+ net.openid.appauth.Utils
+net/openid/appauth/browser/BrowserAllowList.java
+ net.openid.appauth.browser.BrowserAllowList
+net/openid/appauth/AuthorizationResponse.java
+ net.openid.appauth.AuthorizationResponse
+ net.openid.appauth.AuthorizationResponse$1
+ net.openid.appauth.AuthorizationResponse$Builder
+net/openid/appauth/browser/BrowserBlacklist.java
+ net.openid.appauth.browser.BrowserBlacklist
+net/openid/appauth/AuthorizationManagementUtil.java
+ net.openid.appauth.AuthorizationManagementUtil
+net/openid/appauth/TokenRequest.java
+ net.openid.appauth.TokenRequest
+ net.openid.appauth.TokenRequest$1
+ net.openid.appauth.TokenRequest$Builder
+net/openid/appauth/IdToken.java
+ net.openid.appauth.IdToken
+ net.openid.appauth.IdToken$IdTokenException
+net/openid/appauth/internal/UriUtil.java
+ net.openid.appauth.internal.UriUtil
+net/openid/appauth/browser/ExactBrowserMatcher.java
+ net.openid.appauth.browser.ExactBrowserMatcher
+net/openid/appauth/AuthorizationServiceDiscovery.java
+ net.openid.appauth.AuthorizationServiceDiscovery
+ net.openid.appauth.AuthorizationServiceDiscovery$MissingArgumentException
+net/openid/appauth/browser/BrowserWhitelist.java
+ net.openid.appauth.browser.BrowserWhitelist
+net/openid/appauth/browser/VersionedBrowserMatcher.java
+ net.openid.appauth.browser.VersionedBrowserMatcher
+net/openid/appauth/RegistrationRequest.java
+ net.openid.appauth.RegistrationRequest
+ net.openid.appauth.RegistrationRequest$1
+ net.openid.appauth.RegistrationRequest$Builder
+net/openid/appauth/connectivity/package-info.java
+ net.openid.appauth.connectivity.package-info
+net/openid/appauth/browser/CustomTabManager.java
+ net.openid.appauth.browser.CustomTabManager
+ net.openid.appauth.browser.CustomTabManager$1
+net/openid/appauth/TokenResponse.java
+ net.openid.appauth.TokenResponse
+ net.openid.appauth.TokenResponse$Builder
+net/openid/appauth/AuthState.java
+ net.openid.appauth.AuthState
+ net.openid.appauth.AuthState$1
+ net.openid.appauth.AuthState$AuthStateAction
+net/openid/appauth/AuthorizationManagementResponse.java
+ net.openid.appauth.AuthorizationManagementResponse
+net/openid/appauth/ClientSecretPost.java
+ net.openid.appauth.ClientSecretPost
+net/openid/appauth/Clock.java
+ net.openid.appauth.Clock
+net/openid/appauth/browser/VersionRange.java
+ net.openid.appauth.browser.VersionRange
+net/openid/appauth/browser/BrowserSelector.java
+ net.openid.appauth.browser.BrowserSelector
+net/openid/appauth/browser/BrowserDenyList.java
+ net.openid.appauth.browser.BrowserDenyList
+net/openid/appauth/AuthorizationRequest.java
+ net.openid.appauth.AuthorizationRequest
+ net.openid.appauth.AuthorizationRequest$1
+ net.openid.appauth.AuthorizationRequest$Builder
+ net.openid.appauth.AuthorizationRequest$Display
+ net.openid.appauth.AuthorizationRequest$Prompt
+ net.openid.appauth.AuthorizationRequest$ResponseMode
+ net.openid.appauth.AuthorizationRequest$Scope

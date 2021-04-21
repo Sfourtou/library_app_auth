@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.33">
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AdditionalParamsProcessor.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AppAuthConfiguration.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AsciiStringListUtil.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthState.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationException.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationManagementActivity.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationManagementRequest.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationManagementResponse.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationManagementUtil.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationRequest.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationResponse.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationService.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationServiceConfiguration.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/AuthorizationServiceDiscovery.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/ClientAuthentication.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/ClientSecretBasic.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/ClientSecretPost.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/Clock.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/CodeVerifierUtil.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/EndSessionRequest.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/EndSessionResponse.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/GrantTypeValues.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/IdToken.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/JsonUtil.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/NoClientAuthentication.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/Preconditions.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/RedirectUriReceiverActivity.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/RegistrationRequest.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/RegistrationResponse.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/ResponseTypeValues.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/SystemClock.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/TokenRequest.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/TokenResponse.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/Utils.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/AnyBrowserMatcher.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/BrowserAllowList.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/BrowserBlacklist.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/BrowserDenyList.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/BrowserDescriptor.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/BrowserMatcher.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/BrowserSelector.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/BrowserWhitelist.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/Browsers.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/CustomTabManager.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/DelimitedVersion.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/ExactBrowserMatcher.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/VersionRange.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/VersionedBrowserMatcher.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/browser/package-info.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/connectivity/ConnectionBuilder.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/connectivity/DefaultConnectionBuilder.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/connectivity/package-info.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/internal/Logger.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/internal/UriUtil.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/internal/package-info.java">
+</file>
+<file name="/Users/sebastienfourtou/Projects/AppAuth-Android/library/java/net/openid/appauth/package-info.java">
+</file>
+</checkstyle>

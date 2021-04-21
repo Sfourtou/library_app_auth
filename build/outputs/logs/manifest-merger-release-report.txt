@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+	package
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:16:5-33
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:1-44:12
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:15:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:18:3-65
+	android:name
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:18:20-62
+application
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:20:3-34:17
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:21:5-24:41
+	android:launchMode
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:24:7-38
+	android:exported
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:22:7-31
+	android:theme
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:23:7-66
+	android:name
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:21:15-62
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:26:5-33:16
+	android:exported
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:26:59-82
+	android:name
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:26:15-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:27:7-32:23
+action#android.intent.action.VIEW
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:28:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:29:9-67
+	android:name
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:29:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:30:9-69
+	android:name
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:30:19-67
+data
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:31:9-58
+	android:scheme
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:31:15-56
+queries
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:36:3-42:13
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml:37:5-41:14
+uses-sdk
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+		ADDED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
+		INJECTED from /Users/sebastienfourtou/Projects/AppAuth-Android/library/AndroidManifest.xml
